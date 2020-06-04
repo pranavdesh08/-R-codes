@@ -1,6 +1,9 @@
 # -R-codes
-For bayes_knn_k-means the data is generated using set.seed and rnorm.
 
-For lm_em_models the data is from textBookSales.csv
+This Repo includes scripts in R programming.
 
-This includes scripts in R programming.
+bayes_knn_k-means: The data is generated using set.seed and rnorm. This file demonsters the use of machine learning alogrithms such as K-means(unsupervised) and K-nn(supervised).  
+
+lm_em_models: The data used is textBookSales.csv. Linear regression to check the relation between price and sales. 
+
+
